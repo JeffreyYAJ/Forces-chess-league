@@ -21,6 +21,6 @@ dist-ssr
 *.sln
 *.sw?
 .env
-.bolt
+
 
 supabase
